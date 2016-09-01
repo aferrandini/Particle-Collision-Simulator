@@ -11,6 +11,6 @@ This project is done based on the instructions provided in the Coursera's Algori
 
 
 ##Efficiency:
-The collision detection algorithm is efficient because we use Binary Heap to store events and pop the earliest event to be done at each instant in time instead of doing time-driven discrete detection. We are doing event-driven continuous detection with perfect collision detection and fast computation.
+The collision detection algorithm is efficient because we use Binary Heap to store events and pop the earliest event to be done at each instant in time instead of doing time-driven discrete detection. We are doing event-driven continuous detection for perfect collision detection and fast computation when dealing with a lot of particles.
 
 
