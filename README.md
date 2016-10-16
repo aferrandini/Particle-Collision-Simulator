@@ -5,8 +5,8 @@ This project is done based on the instructions provided in the Coursera's Algori
 
 ## How to use
 1. Go to **out\production\Particle Collision Simulator** folder
-2. Open **CMD** or **Bash** here then type **java Main TOTAL_PARTICLES** to run the visualization, if you neglect the TOTAL_PARTICLES then you will need to do the 3rd step.
-3. The program will wait for you to paste the test data, go into the folder **collider/testset/** then open any file as a text and copy all the text then paste into your program instance. Press Enter.
+2. Open **CMD** or **Bash** here then type **java Main [TOTAL_PARTICLES]** to run the visualization. [TOTAL_PARTICLES] is an optional value to say how many identical black particles you want on the visualization. You can neglect it if you want to do the 3rd step (which is strongly recommended).
+3. The program will wait for you to paste the test data (if [TOTAL_PARTICLES] is not fulfilled). Go into the folder **collider/testset/** then open any file as a text and copy all the text then paste into your program instance. Press Enter.
 4. You will see a visualization based on the test data you chose on both the GUI and the console.
 
 
