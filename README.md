@@ -22,4 +22,4 @@ But if you run it on your machine, it will look very smooth.
 
 ![diffusion2.gif](/img/diffusion2.gif?raw=true "diffusion2.gif")
 
-There are lots of test data for you to play with! This is just a handful of them.
+There are lots of visualization scenario for you to play with! This is just a handful of them.
