@@ -9,6 +9,8 @@ This project is done based on the instructions provided in the Coursera's Algori
 3. The program will wait for you to paste the test data (if [TOTAL_PARTICLES] is not given). Go into the folder **collider/testset/** then open any file as a text and copy all the text then paste into your program instance. Press Enter. (Or you can also run the test set by typing **java Main < collider/testset/YOUR_CHOICE_HERE** so you don't have to copy and paste the text)
 4. You will see a visualization based on the test data you chose on both the GUI and the console.
 
+## The Algorithm Concepts
+Read the presentation slides here: http://bit.ly/pcsdata (Thai language)
 
 ## Efficiency
 The collision detection algorithm is efficient because we use Binary Heap to store events and pop the earliest event to be done at each instant in time instead of doing time-driven discrete detection. We are doing event-driven continuous detection for perfect collision detection and fast computation when dealing with a lot of particles.
